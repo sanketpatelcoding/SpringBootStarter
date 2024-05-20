@@ -1,0 +1,1 @@
+This projet has only SpringBoot Initializing configuration
